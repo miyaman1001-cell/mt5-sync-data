@@ -1,0 +1,10 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Local temp
+*.tmp
+*.log
+
+# Large binaries (if you will not track history images)
+history/images/*
