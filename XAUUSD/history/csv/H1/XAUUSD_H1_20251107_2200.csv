@@ -1,2 +1,2 @@
-timestamp_jst;timeframe;symbol;broker;server_gmt_offset;close;ma20;ma50;ma200;rsi14;macd_main;macd_signal;atr14;volume;d_open;d_high;d_low;d_close;w_pp;w_r1;w_s1;w_r2;w_s2;notes
-2025-11-08T07:00:00+09:00;H1;GOLD#;XMTrading;+3;4006.29000;4001.59900;3994.75500;3985.22440;56.11;3.31589;2.96669;13.22286;4;3977.63000;4027.44000;3974.63000;4006.29000;3998.96667;4111.53333;3889.05333;4221.44667;3776.48667;""
+timestamp_jst,timeframe,symbol,broker,server_gmt_offset,close,ma20,ma50,ma200,rsi14,macd_main,macd_signal,atr14,volume,d_open,d_high,d_low,d_close,w_pp,w_r1,w_s1,w_r2,w_s2,notes
+2025-11-08T07:00:00+09:00,H1,GOLD#,XMTrading,+3,4006.29000,4001.59900,3994.75500,3985.22440,56.11,3.31589,2.96669,13.22286,4,3977.63000,4027.44000,3974.63000,4006.29000,3998.96667,4111.53333,3889.05333,4221.44667,3776.48667,""
