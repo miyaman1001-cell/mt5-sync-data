@@ -1,2 +1,2 @@
 timestamp_jst;timeframe;symbol;broker;server_gmt_offset;close;ma20;ma50;ma200;rsi14;macd_main;macd_signal;atr14;volume;d_open;d_high;d_low;d_close;w_pp;w_r1;w_s1;w_r2;w_s2;notes
-2025-12-22T10:00:00+09:00;H1;EURUSD#;XMTrading;+3;1.17098;1.17155;1.17245;1.17190;44.03;-0.00030;-0.00027;0.00116;1903;1.17142;1.17162;1.17056;1.17093;;;;;
+2025-12-22T10:00:00+09:00;H1;SILVER#;XMTrading;+3;67.42000;66.22470;66.05942;63.55829;70.99;0.44404;0.31578;0.40357;3979;67.11100;67.48300;67.11100;67.42600;;;;;
