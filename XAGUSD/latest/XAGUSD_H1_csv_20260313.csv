@@ -1,2 +1,2 @@
 timestamp_jst;timeframe;symbol;broker;server_gmt_offset;close;ma20;ma50;ma200;rsi14;macd_main;macd_signal;atr14;volume;d_open;d_high;d_low;d_close;w_pp;w_r1;w_s1;w_r2;w_s2;notes
-2026-03-14T01:00:00+09:00;H1;SILVER#;XMTrading;+3;80.63000;83.93010;84.99992;85.01301;29.66;-0.75716;-0.69171;1.17793;16738;83.68200;85.44100;80.57900;80.59400;;;;;
+2026-03-14T02:00:00+09:00;H1;SILVER#;XMTrading;+3;80.23500;83.72115;84.88174;84.96591;28.32;-0.93828;-0.72728;1.17421;16931;83.68200;85.44100;80.15600;80.22300;;;;;
