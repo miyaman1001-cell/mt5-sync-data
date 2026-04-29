@@ -1,2 +1,2 @@
 timestamp_jst;timeframe;symbol;broker;server_gmt_offset;close;ma20;ma50;ma200;rsi14;macd_main;macd_signal;atr14;volume;d_open;d_high;d_low;d_close;w_pp;w_r1;w_s1;w_r2;w_s2;notes
-2026-04-30T05:00:00+09:00;H1;EURUSD#;XMTrading;+3;1.16863;1.17031;1.17068;1.17289;39.80;-0.00050;-0.00031;0.00120;2811;1.17092;1.17201;1.16794;1.16862;;;;;
+2026-04-30T06:00:00+09:00;H1;EURUSD#;XMTrading;+3;1.16716;1.17019;1.17059;1.17284;33.02;-0.00065;-0.00036;0.00139;7974;1.17092;1.17201;1.16607;1.16725;;;;;
